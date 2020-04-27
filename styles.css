@@ -62,3 +62,11 @@ body {
 .dropdown-item{
     color: white;
 }
+.navbar-toggler {
+    border: 0;
+    border-color: none;
+}
+.w-100 {
+    width: 100% !important;
+    height: 80vh;
+  }
