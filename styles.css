@@ -36,6 +36,7 @@ body {
 }
 .row {
     padding: 20px;
+    margin-right: 0 !important;
 }
 .blurb {
     padding-left: 20px;
@@ -66,3 +67,4 @@ body {
     border: 0;
     border-color: none;
 }
+
