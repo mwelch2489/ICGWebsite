@@ -38,13 +38,12 @@ body {
 }
 .row {
     padding-top: 10px;
+    padding-bottom: 10px;
+
     margin-right: 0 !important;
 }
 .blurb {
     padding-left: 20px;
-}
-.socialMedia {
-    padding: 10px
 }
 .image-fluid {
     position: relative;
